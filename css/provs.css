@@ -1,0 +1,28 @@
+#tooltip {
+  border: 1px solid #777;
+}
+
+#tooltip label {
+  font-size: 90%;
+  display: block;
+  float: left;
+  font-weight: bold;
+}
+
+.cities {
+  fill: none;
+  stroke: #aaa;
+  stroke-width: 0.2px;
+  stroke-linejoin: round;
+}
+
+.provinces {
+  fill: none;
+  stroke: #777;
+  stroke-width: 1px;
+  stroke-linejoin: round;
+}
+
+.active {
+    fill: orange;
+}
